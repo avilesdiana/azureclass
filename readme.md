@@ -1,7 +1,6 @@
-my page is : https://salmon-cliff-07c044d10.azurestaticapps.net
+my page is :  https://salmon-cliff-07c044d10.azurestaticapps.net
 
 
-<p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
 </p>
